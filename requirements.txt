@@ -3,4 +3,3 @@ python-dotenv
 pydub
 pyaudioop
 google-generativeai
-dotenv
